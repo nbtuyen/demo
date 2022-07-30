@@ -1,0 +1,36 @@
+.awe-section-1 {
+    margin-bottom: 0px;
+}
+
+.owl-carousel {
+    display: block;
+    width: 100%;
+    z-index: 1;
+}
+
+.awe-section-2 {
+    margin-bottom: 0px;
+}
+
+.container {
+    width: 1170px;
+}
+
+.offset_banner {
+    margin-top: -150px;
+    position: relative;
+    z-index: 5;
+}
+
+.section_banner_offset {
+    margin-top: 10px;
+}
+
+.col-lg-6 {
+    float: left;
+    width: 50%;
+}
+
+.section_banner_offset {
+    margin-top: 20px;
+}

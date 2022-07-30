@@ -1,0 +1,175 @@
+.awe-section-5 {
+    margin-bottom: 0px;
+    float: left;
+    width: 100%;
+    margin-top: -110px;
+}
+
+.awe-section-5 .title_module_bbf {
+    margin-top: 200px;
+}
+
+.section_npp_reviews {
+    padding: 40px 0;
+    background-size: cover;
+}
+
+section,
+.section,
+.block {
+    width: 100%;
+    float: left;
+}
+
+.title_module_bbf h2 {
+    font-family: "Noto Serif", serif;
+    font-size: 40px;
+    font-weight: 400;
+    color: #292929;
+    margin: 0 0 5px;
+    padding: 0;
+}
+
+.destitle {
+    display: inline-block;
+    font-family: "Noto Serif", serif;
+    font-size: 18px;
+    color: #292929;
+    font-weight: 400;
+    position: relative;
+}
+
+
+.section_npp_reviews .title_normal {
+    width: 100%;
+    text-align: center;
+    font-family: "Noto Serif", serif;
+    font-size: 18px;
+    color: #292929;
+    padding: 0;
+    margin: 0 0 25px;
+}
+
+.col-lg-12 .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-lg-12 .row .col-lg-7 {
+    width: 53%;
+    margin-left: 30px;
+
+}
+
+.col-lg-12 .row .col-lg-7 .box {
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px 0px rgb(0 0 0 / 8%);
+    height: 85%;
+
+}
+
+.col-lg-12 .row .col-lg-5 {
+    width: 40%;
+    margin-left: 40px;
+
+}
+
+.col-lg-12 .row .col-lg-5 .box {
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px 0px rgb(0 0 0 / 8%);
+    height: 80%;
+
+}
+
+.box table {
+    width: 100%;
+    margin-bottom: 0;
+
+}
+
+.box table thead tr {
+    height: 60px;
+}
+
+.box table thead {
+    height: 60px;
+    background-color: #f8fffb !important;
+    border-radius: 5px 5px 0 0;
+    color: rgba(39, 39, 39, 0.8);
+    font-size: 16px;
+    font-family: "Noto Serif",
+        serif;
+    font-style: italic;
+}
+
+.box table th {
+    font-weight: 400;
+    padding: 0 1rem;
+    border: none;
+    text-align: center;
+}
+
+.box table tr {
+    height: 60px;
+    font-size: 16px;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    color: #272727;
+    line-height: 26px;
+    font-family: "Noto Serif", serif;
+}
+
+.owl-carousel {
+    padding-left: 0;
+    display: block;
+    width: 100%;
+    z-index: 1;
+    position: relative
+}
+
+.owl-carousel1 ul {
+    width: 100%;
+    float: left;
+}
+
+.owl-carousel1 li {
+    list-style: none;
+    text-align: center;
+    padding: 36px 36px 52px;
+    float: left;
+    width: 90%;
+    float: left;
+    position: relative;
+}
+
+.owl-carousel1 li img {
+    display: block;
+    width: 91px;
+    height: 91px;
+    margin: 0 auto;
+    border-radius: 91px;
+    border: 3px solid rgba(0, 0, 0, 0.08);
+}
+
+.owl-carousel1 li h5 {
+    font-size: 18px;
+    line-height: 24px;
+    color: #272727;
+    font-weight: 700;
+}
+
+.owl-carousel1 li p {
+    max-width: 280px;
+    margin: auto;
+    font-style: italic;
+    color: #767676;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: "Noto Serif", serif;
+    text-indent: 24px;
+    background: url(//theme.hstatic.net/200000230435/1000666031/14/quote.png?v=28) 0px 5px no-repeat;
+    background-size: 16px 12px;
+}
